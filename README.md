@@ -2,7 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+## Introduction
+
+This app contains dharma deshanas and you can listen them anytime. Also you can make any of the dharma deshanas as favorite list. You can change the MP3 quality of deshanas. Also you can listen dharma deshanas when this app is in background mode as well. 
 
 ## UI s of the app.
 
