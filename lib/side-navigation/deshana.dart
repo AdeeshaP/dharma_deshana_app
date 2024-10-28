@@ -50,8 +50,6 @@ class _DeshanaScreenState extends State<DeshanaScreen> {
       deshanalowQuality = isLowQuality ?? false;
     });
 
-    print("Are deshana quality low $deshanalowQuality ");
-
     final String response = deshanalowQuality == true
         ? await rootBundle.loadString('assets/json/deshana_mini.json')
         : await rootBundle.loadString('assets/json/deshana.json');
@@ -70,7 +68,6 @@ class _DeshanaScreenState extends State<DeshanaScreen> {
     });
 
     List<String>? favoriteIds = _storage!.getStringList('favoriteIds');
-    print("Fav Ids in deshana screen $favoriteIds");
 
     if (favoriteIds != null) {
       for (int i = 0; i < deshana.length; i++) {
@@ -79,8 +76,6 @@ class _DeshanaScreenState extends State<DeshanaScreen> {
         }
       }
     }
-
-    print("Deshana length  ${deshana.length}");
   }
 
   Future<void> _toggleFavoriteStatus(

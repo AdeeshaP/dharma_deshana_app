@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:dharma_deshana_app/mulpituwa_audio2.dart';
+import 'package:dharma_deshana_app/mulpituwa_audio.dart';
 import 'package:dharma_deshana_app/responsive/responsive.dart';
 import 'package:dharma_deshana_app/side-navigation/aramuna_screen.dart';
 import 'package:dharma_deshana_app/side-navigation/contact_us.dart';
