@@ -2,15 +2,15 @@
 
 A new Flutter project.
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+This app contains dharma deshanas and you can listen them anytime. Also you can make any of the dharma deshanas as favorite list. You can change the MP3 quality of deshanas. Also you can listen dharma deshanas when this app is in background mode as well. 
 
-A few resources to get you started if this is your first Flutter project:
+## UI s of the app.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1 (1)](https://github.com/user-attachments/assets/2eadce0d-5dca-488b-8680-2fd3c9137dc0)
+![2 (1)](https://github.com/user-attachments/assets/69db0b31-db47-4ca2-b46a-bf6cdbe0b85f)
+![3 (1)](https://github.com/user-attachments/assets/64c96459-4555-4ab8-acb1-d1d987556740)
+![4 (1)](https://github.com/user-attachments/assets/b76deab4-28ff-497c-80a5-cd8c74abb434)
+![5 (1)](https://github.com/user-attachments/assets/8444f617-d4ac-475c-ade0-0e44f363740e)
+![6 (1)](https://github.com/user-attachments/assets/514c0e7c-4b5f-42da-9030-fdcbb679afa3)
